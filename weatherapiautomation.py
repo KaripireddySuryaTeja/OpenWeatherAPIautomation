@@ -22,7 +22,7 @@ load_dotenv()
 
 
 #api Key
-APIKEY=os.getenv("key")
+APIKEY=os.getenv("key") #Get your api KEY from "open weather api" portal
 
 #url
 BaseURL='http://api.openweathermap.org/data/2.5/weather'
