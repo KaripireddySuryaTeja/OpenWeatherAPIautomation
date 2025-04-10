@@ -7,13 +7,17 @@ This is a simple Python script that interacts with the OpenWeatherMap API to fet
 
 ## 🔧 Requirements
 Make sure you have the following Python libraries installed:
-[pip install requests python-dotenv]
+```
+  pip install requests python-dotenv]
+```
 
 ## 🔐 Setting Up API Key
 1. Create a free account at OpenWeatherMap.
 2. Navigate to your dashboard and copy the API key.
-3. Create a .env file in your working directory and add the following:\[key=YOUR_API_KEY_HERE5rd]
-
+3. Create a .env file in your working directory and add the following:
+   ```
+    key=YOUR_API_KEY_HERE
+   ```
 
 ## ▶️ How to Run
 1. Run the script or notebook.
