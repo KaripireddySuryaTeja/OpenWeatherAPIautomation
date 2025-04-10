@@ -8,7 +8,7 @@ This is a simple Python script that interacts with the OpenWeatherMap API to fet
 ## 🔧 Requirements
 Make sure you have the following Python libraries installed:
 ```
-  pip install requests python-dotenv]
+  pip install requests python-dotenv
 ```
 
 ## 🔐 Setting Up API Key
