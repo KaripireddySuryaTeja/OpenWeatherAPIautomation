@@ -25,9 +25,6 @@ Make sure you have the following Python libraries installed:
 * Sunrise and Sunset times (adjusted for timezone)
 
 ## 📝 Sample Output
-text
-Copy
-Edit
 Welcome to our weather reporter! Select a city to view?
 Enter a City Name: London
 Weather Summary:  broken clouds
